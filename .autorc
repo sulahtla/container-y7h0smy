@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sulahtla",
+  "repo": "container-y7h0smy",
+  "name": "sulahtla",
+  "email": "Althalus94@gmail.com",
+}
